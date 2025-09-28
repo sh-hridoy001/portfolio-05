@@ -19,8 +19,9 @@ This portfolio highlights **skills, achievements, projects, and biography** in a
 ## 🖼️ Screenshots  
 
 <div align="center">
-  <img src="nav1.png" width="45%" alt="Portfolio Screenshot 1" />
-  <img src="nav2.png" width="45%" alt="Portfolio Screenshot 2" />
+  <img src="desktop_view.png" width="70%" alt="Portfolio Desktop View" />
+  <br/><br/>
+  <img src="mobile_view.png" width="30%" alt="Portfolio Mobile View" />
 </div>  
 
 ---
@@ -34,4 +35,7 @@ This portfolio highlights **skills, achievements, projects, and biography** in a
 ---
 
 ## 🚀 Usage Instructions  
-https://github.com/sh-hridoy001/personal-portfolio.git
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sh-hridoy001/personal-portfolio.git
